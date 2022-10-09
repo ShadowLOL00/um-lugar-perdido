@@ -1,11 +1,6 @@
-.btn {
-  background-color: #FFFF00;
-  color: #FFFFFF;
-  border-radius: 4px;
-  padding: 10px;
-  cursor: pointer;
-}
-
-.btn:hover {
-  
+input {
+  border: 0;
+  background-color: #EEE;
+  padding: 20px;
+  width: 200px;
 }
